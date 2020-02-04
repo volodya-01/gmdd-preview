@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<legend>
+		<flow>
+    		<level min="" max="10" color="0x399AFF" lineWidth="3"/>
+    		<level min="10" max="50" color="0xD6FF00" lineWidth="5"/>
+    		<level min="50" max="100" color="0xFF55FF" lineWidth="6"/>
+    		<level min="100" max="500" color="0x00ffc6" lineWidth="7"/>
+    		<level min="500" max="1000" color="0x005de7" lineWidth="8"/>
+    		<level min="1000" max="2000" color="0x73aa00" lineWidth="9"/>
+    		<level min="2000" max="3000" color="0xe79a00" lineWidth="10"/>
+    		<level min="3000" max="" color="0xff0000" lineWidth="11"/>
+    </flow>
+    <velocity>
+    		<level min="" max="0.05" color="0x00ffc6" lineWidth="3"/>
+    		<level min="0.05" max="0.1" color="0x005de7" lineWidth="5"/>
+    		<level min="0.1" max="0.3" color="0x73aa00" lineWidth="7"/>
+    		<level min="0.3" max="0.5" color="0xe79a00" lineWidth="9"/>
+    		<level min="0.5" max="" color="0xff0000" lineWidth="11"/>
+    </velocity>
+    <slop>
+    		<level min="" max="0.01" color="0x00ffc6" lineWidth="3"/>
+    		<level min="0.01" max="0.05" color="0x005de7" lineWidth="5"/>
+    		<level min="0.05" max="0.1" color="0x73aa00" lineWidth="7"/>
+    		<level min="0.1" max="0.2" color="0xe79a00" lineWidth="9"/>
+    		<level min="0.2" max="" color="0xff0000" lineWidth="11"/>
+    </slop>
+    <age>
+    		<level min="" max="24" color="0x00ffc6" lineWidth="1"/>
+    		<level min="24" max="48" color="0x005de7" lineWidth="2"/>
+    		<level min="48" max="72" color="0x73aa00" lineWidth="3"/>
+    		<level min="72" max="96" color="0xe79a00" lineWidth="4"/>
+    		<level min="96" max="" color="0xff0000" lineWidth="5"/>
+    </age>
+    <pipeDiameter>
+    		<level min="" max="100" color="0x00C7FF" lineWidth="3"/>
+    		<level min="100" max="300" color="0x005DE7" lineWidth="4"/>
+    		<level min="300" max="500" color="0xAD00E7" lineWidth="5"/>
+    		<level min="500" max="800" color="0x39AA00" lineWidth="6"/>
+    		<level min="800" max="1000" color="0xFF8600" lineWidth="7"/>
+    		<level min="1000" max="" color="0xE70000" lineWidth="8"/>
+    </pipeDiameter>
+    <hydraulicGrade>
+    		<level min="" max="33" color="0x0808ff" weight="3"/>
+    		<level min="33" max="34" color="0x399eff" weight="3.5"/>
+    		<level min="34" max="35" color="0x73ffd6" weight="4"/>
+    		<level min="35" max="36" color="0xe7ff4a" weight="4.5"/>
+    		<level min="36" max="38" color="0xffa600" weight="5"/>
+    		<level min="38" max="" color="0xff0000" weight="5.5"/>
+    </hydraulicGrade>
+    <pressure>
+    		<level min="" max="20" color="0x39aa00" weight="3"/>
+    		<level min="20" max="25" color="0x8cd300" weight="3.5"/>
+    		<level min="25" max="30" color="0xffff00" weight="4"/>
+    		<level min="30" max="32" color="0xff8200" weight="4.5"/>
+    		<level min="32" max="" color="0xff0000" weight="5"/>
+    </pressure>
+    <demand>
+    		<level min="" max="2.5" color="0xbdebff" weight="3"/>
+    		<level min="2.5" max="10" color="0x0071ff" weight="4"/>
+    		<level min="10" max="50" color="0x00ff00" weight="6"/>
+    		<level min="50" max="100" color="0xff8200" weight="9"/>
+    		<level min="100" max="" color="0xff0000" weight="12"/>
+    </demand>
+    <pipeAge>
+    		<level min="" max="5" color="0x00ffc6" lineWidth="2"/>
+    		<level min="5" max="10" color="0xEEEE00" lineWidth="3"/>
+    		<level min="10" max="15" color="0x005de7" lineWidth="5"/>
+    		<level min="15" max="20" color="0x73aa00" lineWidth="7"/>
+    		<level min="20" max="25" color="0xFF7F00" lineWidth="8"/>
+    		<level min="25" max="30" color="0xEE00EE" lineWidth="9"/>
+    		<level min="30" max="" color="0xff0000" lineWidth="11"/>
+    		<level min="" max="" color="0x000000" lineWidth="1.5"/>
+    </pipeAge>
+    <Physical_PipeMaterial>
+    	<Material field="" color="0xA524AA" lineWidth="5"/>
+    	<Material field="Ductile Iron" color="0xA52484" lineWidth="5"/>
+    	<Material field="HDPE" color="0x18388C" lineWidth="5"/>
+    	<Material field="HOBAS" color="0x847D42" lineWidth="5"/>
+    	<Material field="PE" color="0x632CA5" lineWidth="5"/>
+    	<Material field="PPR" color="0x31A239" lineWidth="5"/>
+    	<Material field="UPVC" color="0x94457B" lineWidth="5"/>
+    	<Material field="玻纹管" color="0x6B9E4A" lineWidth="5"/>
+    	<Material field="不锈钢" color="0x31A2FF" lineWidth="5"/>
+    	<Material field="不锈钢复合" color="0x942C39" lineWidth="5"/>
+    	<Material field="镀锌" color="0x8C5542" lineWidth="5"/>
+    	<Material field="复合管" color="0xA5AA39" lineWidth="5"/>
+    	<Material field="钢" color="0xFF5500" lineWidth="5"/>
+    	<Material field="钢复" color="0x00FFC6" lineWidth="5"/>
+    	<Material field="钢塑" color="0x4AAEB5" lineWidth="5"/>
+    	<Material field="铝塑" color="0xAD5D21" lineWidth="5"/>
+    	<Material field="球/钢" color="0x0071FF" lineWidth="5"/>
+    	<Material field="球墨" color="0x29A25A" lineWidth="5"/>
+    	<Material field="石棉" color="0x29AFF" lineWidth="5"/>
+    	<Material field="双壁波纹管" color="0x29FFFF" lineWidth="5"/>
+    	<Material field="铸" color="0xFFA25A" lineWidth="5"/>
+    	<Material field="塑料" color="0xF9A25F" lineWidth="5"/>
+    	<Material field="无缝钢管" color="0x2FF25A" lineWidth="5"/>
+    	<Material field="铸铁" color="0x2FAFFA" lineWidth="5"/>
+    	<Material field="自应力" color="0x2FA2FF" lineWidth="5"/>
+    </Physical_PipeMaterial>
+	</legend>
+</root>

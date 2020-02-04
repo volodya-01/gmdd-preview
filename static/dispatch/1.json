@@ -1,0 +1,707 @@
+{
+    "CurrentData": [
+        {
+            "ClearWaterLevel": 0.56,
+            "OutFlow": 9668,
+            "OutPressure": 0.332,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": "OFF"
+                }
+            ],
+            "WaterworksName": "北仑水厂",
+            "WaterworksType": 0
+        },
+        {
+            "ClearWaterLevel": 2.76,
+            "OutFlow": 6237,
+            "OutPressure": 0.338,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": "ON"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": "OFF"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": "ON"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "江东水厂",
+            "WaterworksType": 0
+        },
+        {
+            "ClearWaterLevel": 2.98,
+            "OutFlow": 11398,
+            "OutPressure": 0.382,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": "23.7"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "东钱湖水厂1#",
+            "WaterworksType": 0
+        },
+        {
+            "ClearWaterLevel": 2.98,
+            "OutFlow": 6415,
+            "OutPressure": 0.375,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": "12.4"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "东钱湖水厂2#",
+            "WaterworksType": 0
+        },
+        {
+            "ClearWaterLevel": 3.32,
+            "OutFlow": 7976,
+            "OutPressure": 0.386,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": "99.9"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "联丰路调流阀",
+            "WaterworksType": 0
+        },
+        {
+            "ClearWaterLevel": 3.32,
+            "OutFlow": 10110,
+            "OutPressure": 0.391,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": "99.5"
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 0,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "鄞县大道调流阀",
+            "WaterworksType": 0
+        }
+    ],
+    "FlowPercent": 0.4,
+    "FlowUpDownType": -1,
+    "ForecastData": [
+        {
+            "ClearWaterLevel": 0.5,
+            "OutFlow": 9064.6,
+            "OutPressure": 0.329,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "北仑水厂",
+            "WaterworksType": 1
+        },
+        {
+            "ClearWaterLevel": 2.7,
+            "OutFlow": 6090.1,
+            "OutPressure": 0.336,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "江东水厂",
+            "WaterworksType": 1
+        },
+        {
+            "ClearWaterLevel": 3,
+            "OutFlow": 16671.8,
+            "OutPressure": 0.394,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "东钱湖水厂1#",
+            "WaterworksType": 1
+        },
+        {
+            "ClearWaterLevel": 3,
+            "OutFlow": 5462,
+            "OutPressure": 0.383,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "东钱湖水厂2#",
+            "WaterworksType": 1
+        },
+        {
+            "ClearWaterLevel": 3.3,
+            "OutFlow": 8570.5,
+            "OutPressure": 0.382,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "联丰路调流阀",
+            "WaterworksType": 1
+        },
+        {
+            "ClearWaterLevel": 3.3,
+            "OutFlow": 3708.7,
+            "OutPressure": 0.383,
+            "PumpList": [
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 1,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 2,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 3,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 4,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 5,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 6,
+                    "Speed": ""
+                },
+                {
+                    "AdjustmentType": 0,
+                    "OpenCloseType": 1,
+                    "PumpFlag": 0,
+                    "PumpNo": 7,
+                    "Speed": ""
+                }
+            ],
+            "WaterworksName": "鄞县大道调流阀",
+            "WaterworksType": 1
+        }
+    ],
+    "Minutes": 0,
+    "Time": "14:17:00",
+    "TimeStamp": "1573625820000"
+}
